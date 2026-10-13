@@ -11,7 +11,7 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    color: white;
+    color: rgb(14, 14, 14);
 
     background: linear-gradient(
         135deg,
@@ -116,16 +116,16 @@ nav {
 }
 
 .hero-text h1 span {
-    color: lightskyblue;
+    color: rgb(0, 3, 5);
 }
 
 .hero-text h2 {
-    color: rgb(2, 2, 109);
+    color: rgb(0, 0, 0);
     margin-bottom: 20px;
 }
 
 .hero-text p {
-    color: rgb(2, 2, 109);
+    color: rgb(18, 18, 19);
     margin-bottom: 20px;
 }
 
@@ -134,13 +134,13 @@ nav {
 .section-tittle,
 .skill h3,
 .project-content h3 {
-    color: white;
+    color: rgb(0, 1, 3);
 }
 
 .btn {
     display: inline-block;
     background: #2563eb;
-    color: white;
+    color: rgb(41, 39, 39);
     padding: 12px 22px;
     border-radius: 8px;
     text-decoration: none;
